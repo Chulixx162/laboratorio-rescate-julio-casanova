@@ -2,3 +2,4 @@ Línea 1: Git guarda el historial del proyecto.
 Línea 2: Prueba para revisar diferencias.
 Línea 3: Las ramas permiten trabajar sin dañar main.
 Linea 4: Los commits son puntos de control en el proyecto.
+Lines 5: Los commits permiten volver a un estado anterior del proyecto.
